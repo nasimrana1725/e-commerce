@@ -82,5 +82,6 @@ class HomeController extends Controller
     {
       return view('pages.contactus');
     }
+    $name = "nasim";
 
 }
